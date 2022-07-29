@@ -1,2 +1,3 @@
 # odin-recipes
-Recipes website learning
+
+Repository for Recipes website created during TheOdinProject's track!
